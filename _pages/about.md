@@ -20,22 +20,52 @@ Natural Language Processing for under-represented languages (with a focus on Cre
 **Phone:** 305-284-7241  
 **UMiami Profile:** [people.miami.edu/profile/c45e711863bfbe6f85b4da913e9274ec](https://people.miami.edu/profile/c45e711863bfbe6f85b4da913e9274ec) 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+---
 
-**Markdown generator**
+## Past Research Highlights
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+### Computational Tools for Creole Languages
+I have built some of the first NLP resources for Martinican and Haitian Creole, including part‑of‑speech taggers, dependency parsers, and language identification systems. These projects involved creating annotated corpora from the ground up and designing models capable of handling the high rates of polyfunctionality, code‑switching, and syntactic ambiguity characteristic of Creole languages.  
+This foundational work now supports downstream applications such as translation, linguistic analysis, educational tools, and corpus exploration.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+### Linguistically Informed NLP
+A central theme of my research is demonstrating how linguistic theory can guide model design, especially in low‑resource contexts. My work shows that:
+- linguistic insight often outperforms brute‑force data scaling,
+- typological affinities among Creole languages can support efficient cross‑lingual transfer,
+- systematic error analysis enables targeted, high‑impact annotation strategies.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+This approach reintroduces linguistic structure into NLP workflows, offering paths forward for both low‑resource languages and meaning‑heavy tasks where large models struggle.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+### NLP for Healthcare Communication
+I have developed methodology and annotation frameworks for improving Haitian Creole translations in medical contexts. This work addresses semantic accuracy, cultural appropriateness, register, and patient safety, using evaluation criteria adapted from clinical risk frameworks.  
+The goal is not to replace human interpreters, but to design tools and guidelines that make healthcare communication more accessible, safe, and culturally aligned for Haitian Creole speakers.
+
+---
+
+## Current Work: The Creole Hub
+
+I am currently leading the development of **The Creole Hub**, a collaborative digital infrastructure for Creole NLP.  
+The Hub integrates:
+- searchable corpora and datasets,  
+- NLP models (POS, parsing, translation, LID),  
+- annotation environments (INCEpTION/WebAnno),  
+- community‑driven contributions,  
+- educational and cultural resources.
+
+Its phased design moves from access and dissemination (Phase 1) to collaboration and ownership (Phase 2), and ultimately toward a sustained cultural‑linguistic infrastructure (Phase 3). The Hub embodies a model of NLP grounded in linguistic theory, community participation, and digital humanities values.
+
+---
+
+## Rationale & Research Vision
+
+My work is guided by the idea that **languages are under‑represented, not under‑resourced**, and that equitable NLP requires more than scaling data: it requires structural understanding, cultural awareness, and participatory design.
+
+French‑lexified Creoles reveal the limits of current NLP paradigms and offer a site for methodological innovation. By combining linguistics, computation, and community collaboration, my research aims to:
+- create sustainable tools for Creole languages,
+- promote linguistic equity in technological spaces,
+- rethink how NLP engages with meaning, structure, and context,
+- design technologies that reflect the lived realities of their speakers.
+
+This perspective links all aspects of my work—from theoretical modeling and corpus creation to healthcare communication, digital humanities, and long‑term infrastructure building.
+
+``
