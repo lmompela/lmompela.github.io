@@ -42,20 +42,6 @@ The goal is not to replace human interpreters, but to design tools and guideline
 
 ---
 
-## Current Work: The Creole Hub
-
-I am currently leading the development of **The Creole Hub**, a collaborative digital infrastructure for Creole NLP.  
-The Hub integrates:
-- searchable corpora and datasets,  
-- NLP models (POS, parsing, translation, LID),  
-- annotation environments (INCEpTION/WebAnno),  
-- community‑driven contributions,  
-- educational and cultural resources.
-
-Its phased design moves from access and dissemination (Phase 1) to collaboration and ownership (Phase 2), and ultimately toward a sustained cultural‑linguistic infrastructure (Phase 3). The Hub embodies a model of NLP grounded in linguistic theory, community participation, and digital humanities values.
-
----
-
 ## Rationale & Research Vision
 
 My work is guided by the idea that **languages are under‑represented, not under‑resourced**, and that equitable NLP requires more than scaling data: it requires structural understanding, cultural awareness, and participatory design.
