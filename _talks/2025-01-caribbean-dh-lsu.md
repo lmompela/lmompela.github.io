@@ -6,6 +6,7 @@ type: Invited talk
 venue: "3rd annual Caribbean Digital Humanities Virtual Lecture at LSU"
 date: 2025-01-15
 location: "Baton Rouge, Louisiana (Virtual)"
+excerpt: "This talk explores the development of AI-enabled translation tools for Haitian Creole speakers in healthcare settings, addressing linguistic variation, code-switching, and medical terminology challenges."
 slides: /files/talks/2025-lsu-slides.pdf
 flyer: /files/talks/2025-lsu-flyer.pdf
 ---

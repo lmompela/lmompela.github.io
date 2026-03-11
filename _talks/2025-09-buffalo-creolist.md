@@ -6,6 +6,7 @@ type: Workshop presentation
 venue: "4th Annual University at Buffalo Creolist Workshop"
 date: 2025-09-01
 location: "Buffalo, USA"
+excerpt: "This presentation examines how integrating linguistic knowledge into NLP model design yields more accurate and culturally grounded tools for Haitian and Martinican Creole, including part-of-speech tagging and syntactic parsing."
 slides: /files/talks/2025-buffalo-slides.pdf
 ---
 

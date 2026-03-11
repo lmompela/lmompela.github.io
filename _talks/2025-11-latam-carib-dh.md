@@ -6,6 +6,7 @@ type: Conference presentation
 venue: "2025 Latin American & Caribbean Digital Humanities Symposium"
 date: 2025-11-01
 location: "San Juan, Puerto Rico"
+excerpt: "This project develops a digital platform integrating computational linguistics and digital humanities to provide accessible NLP tools and curated resources for Martinican and Haitian Creole languages."
 slides: /files/talks/2025-portorico-slides.pdf
 ---
 

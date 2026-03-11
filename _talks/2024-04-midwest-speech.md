@@ -6,6 +6,7 @@ type: Poster
 venue: "Midwest Speech and Language Days 2024"
 date: 2024-04-01
 location: "Midwest, USA"
+excerpt: "This poster introduces the Hoosier Ellipsis Corpus, a resource documenting elliptical constructions in English to advance linguistic understanding of these often-overlooked phenomena."
 flyer: /files/talks/2024-midwest-flyer.pdf
 ---
 
