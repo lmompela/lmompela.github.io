@@ -35,14 +35,7 @@ redirect_from:
 * **Center for the Humanities Research Fellowship** – University of Miami (2025–2026): *A Digital Humanities Platform for Creole Language Revitalization: Integrating NLP Tools and Cultural Dissemination*
 * **Associate Instructor Award (French)** – Indiana University (April 2022)
 * **Peter Cannings Award** – Indiana University (March 2022)
-* **Les Lyriades de la langue française Award** – France (December 2017): Master thesis competition; award for outstanding work on the French language
 
-## Research Grants
-
-* **Robert Wood Johnson Foundation – E4A: Innovative Research to Advance Racial Equity** (Fall 2024)  
-  *Enhancing Healthcare Access through AI-Assisted Translation for Haitian Creole Speakers* — Not recommended
-* **FACE Foundation & Transatlantic Research Partnership / Paris Nanterre University** (Spring 2024)  
-  *Enhancing Healthcare Access for Miami's Haitian Community through AI-assisted Machine Translation* — Not recommended
 
 ## Languages & Skills
 
