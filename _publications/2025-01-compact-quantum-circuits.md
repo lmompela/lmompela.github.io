@@ -3,7 +3,7 @@ title: "Compact Quantum Circuits for Martinican Creole LID: A Typologically Info
 collection: publications
 permalink: /publication/2025-compact-quantum-circuits
 excerpt: 'A proof-of-concept for language identification using quantum circuits for Martinican Creole.'
-date: '2025-01-01'
+date: 2025-01-01
 venue: 'QNLPAI 2025 Proceedings, Springer'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-032-13883-5_11'
 citation: 'Mompelat, L. (2026). Compact Quantum Circuits for Martinican Creole LID: A Typologically Informed Proof-of-Concept. In: Cavar, D., Aggarwal, V., Busemeyer, J., Chen, S.YC. (eds) Quantum AI and NLP. QNLPAI 2025. Communications in Computer and Information Science, vol 2659. Springer, Cham.'

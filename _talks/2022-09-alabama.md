@@ -7,7 +7,7 @@ venue: "Department of Modern Languages & Classics, University of Alabama"
 date: 2022-09-01
 location: "Tuscaloosa, Alabama"
 excerpt: "This guest lecture examines the widespread applications of computational linguistics in contemporary society."
-slides: https://drive.google.com/file/d/1beGRywkjhpplTVXsKknXcqMAZpd4TtHq/preview
+slides: https://drive.google.com/file/d/1beGRywkjhpplTVXsKknXcqMAZpd4TtHq/view?usp=sharing
 flyer: /files/talks/2022-ualabama-flyer.png
 ---
 
